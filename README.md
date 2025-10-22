@@ -1,16 +1,45 @@
-## Hi there 👋
+<h1>Language préféré</h1>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js" />
+  </a>
+  Javascript
+</p>
 
-<!--
-**JeanConti/JeanConti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Web Techs</h1>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js" />
+  </a>
+  HTML/CSS/JS
+</p>
 
-Here are some ideas to get you started:
+<h1>Frameworks</h1>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bootstrap" />
+  </a>
+  Bootstrap 5
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1>Outils</h1>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysq,git,github,vscode,nodejs" />
+  </a>
+  MySQL - Git - Github - VSCODE - NodeJS
+</p>
+
+Bonjour, je m'appelle Jean-Michel
+💻 Étudiant en Développement Web Full-Stack, passionné par Javascript.
+
+🚀 Actuellement en train d’apprendre :
+
+🐍 Javascript (Bootstrap)
+🛠️ JS, HTML, CSS, BS5
+🧠 Bases de données SQL, mysql
+📦 Git, GitHub, Scrum et gestion de projet Agile (Taiga)
+📦 Je utilise: Thunder-Client, Vscode
+🎓 Je suis actuellement en formation chez Ilaria Digital School.
+
+🎯 Pour me contacter: jean-michelconti@hotmail.com
