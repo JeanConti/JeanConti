@@ -44,6 +44,6 @@ Bonjour, je m'appelle Jean-Michel <br>
 🧠 Bases de données: SQL, mysql <br>
 📦 Git, GitHub, Scrum et gestion de projet Agile (Taiga) <br>
 📦 Server/Client: Thunder-Client <br>
-🎓 Je suis actuellement en formation chez Ilaria Digital School. <br>
+🎓 Actuellement je suis  en formation chez Ilaria Digital School. <br>
 <br>
 🎯 Pour me contacter: jean-michelconti@hotmail.com
