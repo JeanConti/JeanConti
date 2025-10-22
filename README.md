@@ -1,4 +1,4 @@
-Language préféré
+<h1>Language préféré</h1>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js" />
