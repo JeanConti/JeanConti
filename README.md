@@ -1,8 +1,9 @@
-<h1>Language préféré</h1>
+Language préféré
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js" />
   </a>
+  <br>
   Javascript
 </p>
 
@@ -11,10 +12,11 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js" />
   </a>
+  <br>
   HTML/CSS/JS
 </p>
 
-<h1>Frameworks</h1>
+Frameworks
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bootstrap" />
@@ -22,11 +24,12 @@
   Bootstrap 5
 </p>
 
-<h1>Outils</h1>
+Outils
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysq,git,github,vscode,nodejs" />
   </a>
+  <br>
   MySQL - Git - Github - VSCODE - NodeJS
 </p>
 
