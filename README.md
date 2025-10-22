@@ -21,13 +21,14 @@ Frameworks
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bootstrap" />
   </a>
+  <br>
   Bootstrap 5
 </p>
 
 Outils
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysq,git,github,vscode,nodejs" />
+    <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,nodejs" />
   </a>
   <br>
   MySQL - Git - Github - VSCODE - NodeJS
