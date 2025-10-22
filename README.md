@@ -1,4 +1,4 @@
-<h1>Language préféré</h1>
+<strong>Language préféré</strong>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js" />
@@ -39,11 +39,11 @@ Bonjour, je m'appelle Jean-Michel <br>
 <br>
 🚀 Actuellement je suis en train d’apprendre : <br>
 
-🐍 Javascript (Bootstrap) <br>
+🖥️ VSCODE, Javascript <br>
 🛠️ JS, HTML, CSS, BS5 <br>
-🧠 Bases de données SQL, mysql <br>
+🧠 Bases de données: SQL, mysql <br>
 📦 Git, GitHub, Scrum et gestion de projet Agile (Taiga) <br>
-📦 Je utilise: Thunder-Client, Vscode <br>
+📦 Server/Client: Thunder-Client <br>
 🎓 Je suis actuellement en formation chez Ilaria Digital School. <br>
 <br>
 🎯 Pour me contacter: jean-michelconti@hotmail.com
