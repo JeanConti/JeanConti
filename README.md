@@ -34,16 +34,16 @@ Outils
   MySQL - Git - Github - VSCODE - NodeJS
 </p>
 
-Bonjour, je m'appelle Jean-Michel
-💻 Étudiant en Développement Web Full-Stack, passionné par Javascript.
+Bonjour, je m'appelle Jean-Michel <br>
+💻 Étudiant en Développement Web Full-Stack, passionné par Javascript. <br>
+<br>
+🚀 Actuellement je suis en train d’apprendre : <br>
 
-🚀 Actuellement en train d’apprendre :
-
-🐍 Javascript (Bootstrap)
-🛠️ JS, HTML, CSS, BS5
-🧠 Bases de données SQL, mysql
-📦 Git, GitHub, Scrum et gestion de projet Agile (Taiga)
-📦 Je utilise: Thunder-Client, Vscode
-🎓 Je suis actuellement en formation chez Ilaria Digital School.
-
+🐍 Javascript (Bootstrap) <br>
+🛠️ JS, HTML, CSS, BS5 <br>
+🧠 Bases de données SQL, mysql <br>
+📦 Git, GitHub, Scrum et gestion de projet Agile (Taiga) <br>
+📦 Je utilise: Thunder-Client, Vscode <br>
+🎓 Je suis actuellement en formation chez Ilaria Digital School. <br>
+<br>
 🎯 Pour me contacter: jean-michelconti@hotmail.com
