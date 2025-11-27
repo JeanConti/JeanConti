@@ -46,4 +46,4 @@ Bonjour, je m'appelle Jean-Michel <br>
 📦 Server/Client: Thunder-Client <br>
 🎓 Actuellement je suis  en formation chez Ilaria Digital School. <br>
 <br>
-🎯 Pour me contacter: jean-michelconti@hotmail.com
+🎯 Pour me contacter: jeanmichelconti.dev@gmail.com
