@@ -19,10 +19,10 @@
 Frameworks
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,nestjs" />
   </a>
   <br>
-  Bootstrap 5
+  Bootstrap 5, NestJS
 </p>
 
 Outils
