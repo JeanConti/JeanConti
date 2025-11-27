@@ -45,9 +45,9 @@ Outils
   <br>
   MySQL - Github - VSCODE - NodeJS - NestJS
 </p>
-
+<br>
 Bonjour, je m'appelle Jean-Michel <br>
-💻 Étudiant en Développement Web Full-Stack, passionné par Javascript. <br>
+💻 Je suis étudiant en Développement Web Full-Stack, passionné par Javascript. <br>
 <br>
 🚀 Actuellement je suis en train d’apprendre : <br>
 
