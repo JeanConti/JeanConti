@@ -1,13 +1,78 @@
-<h1>Jean-Michel </h1>
-<p></p>Je suis un passionné de technologie. Technicien en Installation de Télécommunications, en Impression d’Arts Graphiques ainsi qu’en Pre-impression Numérique, j'aime beaucoup voyager, lire, jouer de la guitare, écouter de la musique et faire des randonnées.
-</p>
-<p>
-Pendant mes études j’ai acquis des connaissances en programmation industrielle, en systèmes d’exploitation et en maintenance de hardware, <br> 
-et c’est là que j’ai découvert l’univers du développement Web et que j’ai pris conscience que c’est dans ce domaine que je voulais vraiment évoluer et devenir professionnel. <br>
+<div align="center">
+  <h1>Salut, moi c'est [Ton Prénom] ! 👋</h1>
+  <p><strong>Développeur Fullstack Junior | Spécialiste NestJS & Prisma</strong></p>
+  
+  <p>
+    <a href="mailto:jeanmichelconti.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="[Lien LinkedIn]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  </p>
+</div>
 
-À l’occasion de mon stage chez Dorna Sport S.L. (Espagne), je me suis exercé dans la programmation pour le transfert de fichiers et la configuration de périphériques via les commandes du CMD de Windows. Je me suis initié aussi dans l’apprentissage de Python. Comme projet de fin de d’études j’ai réalisé un serveur de fichiers sur Linux pour utilisateurs de Windows.
+<hr />
+
+<h3>🚀 À propos de moi</h3>
+<p>
+  Développeur passionné par le backend moderne, je me concentre sur la création d'APIs performantes et typées. 
+  Je suis <b>disponible immédiatement</b> pour un poste sur <b>Lyon, Bourg-en-Bresse ou Mâcon</b>.
 </p>
-Je désire continuer à me former dans le développement web en tant que Développeur Full-Stack car j’aime le design (depuis mes études en Pre-impression Numérique) et coder, et devenir expert dans la création de sites et d’applications web, en sachant que c‘est un domaine qui évolue constamment et qui aura de plus en plus d’avenir et dont j’aurais toujours le désir d’accroître mes connaissances.
+
+<h3>🛠 Technologies & Outils</h3>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Backend & Data</strong><br />
+      • NodeJS / NestJS<br />
+      • Prisma (ORM)<br />
+      • MySQL
+    </td>
+    <td width="50%" valign="top">
+      <strong>Frontend & Design</strong><br />
+      • Bootstrap<br />
+      • HTML5 / CSS3 / JS
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <strong>Gestion & Workflow</strong><br />
+      • Git / GitHub<br />
+      • Taiga (Agile)
+    </td>
+    <td width="50%" valign="top">
+      <strong>OS & Environnement</strong><br />
+      • Windows / VS Code
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<h3>📂 Projets mis en avant</h3>
+
+<table>
+  <tr>
+    <td>
+      <strong>Project NestJS / Prisma</strong><br />
+      <i>API de gestion de données de portfolio</i><br />
+      <p>Implémentation d'une architecture modulaire, authentification et gestion de base de données complexe.</p>
+    </td>
+    <td>
+      <strong>Project NestJS / Prisma</strong><br />
+      <i>API de gestion de données de portfolio</i><br />
+      <p>Implémentation d'une architecture modulaire, authentification et gestion de base de données complexe.</p>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<!-- <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[TonPseudoGitHub]&show_icons=true&theme=radical" alt="Mes stats GitHub" />
+</div> -->
+
+<hr />
+
+<p align="center">
+  <i>"Coder aujourd'hui les solutions de demain."</i>
 </p>
 
 <h2>Language préféré</h2>
