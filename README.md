@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Salut, moi c'est [Ton Prénom] ! 👋</h1>
+  <h1>Salut, moi c'est Jean-Michel ! 👋</h1>
   <p><strong>Développeur Fullstack Junior | Spécialiste NestJS & Prisma</strong></p>
   
   <p>
@@ -56,9 +56,9 @@
       <p>Implémentation d'une architecture modulaire, authentification et gestion de base de données complexe.</p>
     </td>
     <td>
-      <strong>Project NestJS / Prisma</strong><br />
-      <i>API de gestion de données de portfolio</i><br />
-      <p>Implémentation d'une architecture modulaire, authentification et gestion de base de données complexe.</p>
+      <strong>Project Frontend </strong><br />
+      <i>Landing page de service pour comptable colombie</i><br />
+      <p></p>
     </td>
   </tr>
 </table>
